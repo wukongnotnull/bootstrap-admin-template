@@ -1,0 +1,4 @@
+# ignore  ide
+.idea/
+.vscode/
+.webstorm/
