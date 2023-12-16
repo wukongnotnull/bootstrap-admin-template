@@ -2,6 +2,12 @@
 该模板诞生于2023年12月15日，基于Bootstrap 编写的一套最简洁、易用的后台管理界面模板。
 这个模板特别适合 Web 初学者，可以帮助大家快速搭建后台管理系统界面，快速进行二次开发。
 
+## 待办任务
+- [ ] 滚动右边，左边导航菜单不动
+- [x] 修改user.index page to copy for other pages
+- [x] 整合 bootstrap-table
+- [x] 使用startsb-admin-2 初始化项目
+
 ## 技术栈
 - HTML
 - CSS
