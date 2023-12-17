@@ -4,6 +4,8 @@
 
 ## 待办任务
 - [ ] 滚动右边，左边导航菜单不动
+- [ ] 右边区域的子区域的内边距和外边距都比较大，希望紧凑一点
+- [x] 修改动态表格，新增导出功能和全屏功能
 - [x] 修改user.index page to copy for other pages
 - [x] 整合 bootstrap-table
 - [x] 使用startsb-admin-2 初始化项目
